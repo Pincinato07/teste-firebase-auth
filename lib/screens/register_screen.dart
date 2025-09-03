@@ -71,7 +71,7 @@ class _RegisterScreenState extends State<RegisterScreen> {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
-      appBar: AppBar(title: const Text('Registro')),
+      appBar: AppBar(title: const Text('Teste de autenticação Firebase - Registro')),
       body: Padding(
         padding: const EdgeInsets.all(16),
         child: Column(

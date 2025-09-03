@@ -12,7 +12,7 @@ class ProfileScreen extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
-      appBar: AppBar(title: const Text('Perfil')),
+      appBar: AppBar(title: const Text('Teste de autenticação Firebase - Perfil')),
       body: Center(
         child: Column(
           mainAxisAlignment: MainAxisAlignment.center,
